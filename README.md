@@ -6,5 +6,5 @@ Please check out flashLoanSample.sol. This code is intended to perform a flash l
       2. Swap DAI for wETH on Uniswap  
       3. Swap wETH for KNC on Kyber network  
       4. Swap KNC for DAI on Sushiswap  
-      5. return DAO + fee to AAVE v2 flash loan
+      5. return DAI + fee to AAVE v2 flash loan
      
